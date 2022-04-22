@@ -1,6 +1,8 @@
 # Hi there 👋  
 
-I'm QuestionMark001,a prospective Full Stack Developer.✨
+I'm QuestionMark001,a prospective Full Stack Developer.✨  
+
+![QuestionMark001's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuestionMark001&show_icons=true&theme=onedark)  
 
 <!--
 **QuestionMark001/QuestionMark001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
